@@ -1,7 +1,7 @@
 
 # Privacy Policy
 
-Türkiye Anlık Deprem is committed to ensuring the privacy and security of our users' personal information. This Privacy Policy outlines how we collect, use, and safeguard the data collected by our mobile application.
+Türkiye Son Depremler is committed to ensuring the privacy and security of our users' personal information. This Privacy Policy outlines how we collect, use, and safeguard the data collected by our mobile application.
 
 **Information Collection and Use**
 
@@ -30,7 +30,7 @@ Türkiye Anlık Deprem is committed to ensuring the privacy and security of our 
 
 **Terms of Use**
 
-By accessing and using Türkiye Anlık Deprem, you agree to abide by the following terms and conditions:
+By accessing and using TürkiyeSon Depremler, you agree to abide by the following terms and conditions:
 
 - Users must comply with all applicable laws and regulations.
 - Users are responsible for maintaining the confidentiality of their account information.
