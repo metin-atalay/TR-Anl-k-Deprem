@@ -38,5 +38,3 @@ By accessing and using TürkiyeSon Depremler, you agree to abide by the followin
 **Governing Law**
 
 This Privacy Policy and Terms of Use are governed by and construed in accordance with the laws of USA. 
-
-Please note that this is a generic template and may need customization based on your app's specific features, data collection practices, and legal requirements in your jurisdiction. It's highly recommended to seek legal advice or use a professional service to ensure compliance with relevant laws and regulations.
