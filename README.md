@@ -1,0 +1,1 @@
+# TR-Anl-k-Deprem
