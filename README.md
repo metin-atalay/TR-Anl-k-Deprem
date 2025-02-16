@@ -1,7 +1,7 @@
 
 # Privacy Policy
 
-Türkiye Son Depremler is committed to ensuring the privacy and security of our users' personal information. This Privacy Policy outlines how we collect, use, and safeguard the data collected by our mobile application.
+Deprem Ağı Türkiye is committed to ensuring the privacy and security of our users' personal information. This Privacy Policy outlines how we collect, use, and safeguard the data collected by our mobile application.
 
 **Information Collection and Use**
 
